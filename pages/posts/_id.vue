@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h1>{{ post.title }}</h1>
+    <h1>{{ post.title }} </h1>
+   Update at: {{post.updatedAt}}
     <p>{{ post.description }}</p>
   </div>
 </template>
