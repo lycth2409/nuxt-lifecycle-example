@@ -3,6 +3,11 @@
     <nuxt/>
   </div>
 </template>
+<script>
+  export default{
+    middleware: 'always'
+  }
+</script>
 
 <style>
 html {
