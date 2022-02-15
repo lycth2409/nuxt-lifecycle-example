@@ -8,6 +8,9 @@
       <h2 class="subtitle">
         <nuxt-link to="/page2">page2</nuxt-link>
       </h2>
+      <h2 class="subtitle">
+        <nuxt-link to="/robot.txt">Static</nuxt-link>
+      </h2>
     </div>
   </section>
 </template>
